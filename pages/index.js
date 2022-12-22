@@ -12,7 +12,6 @@ import CardsData from '../services/CardsData.json';
 
 export default function Home({ exploreData, cardsData }) {
 
-  console.log(exploreData)
   return (
     <div>
       <Head>
